@@ -4,6 +4,7 @@ loadstring(game:HttpGet("https://pastebin.com/raw/q7ypMKqC"))()
 loadstring(game:HttpGet("https://pastebin.com/raw/RfFGyXEX"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/7yd7/Hub/refs/heads/Branch/GUIS/Emotes.lua"))()
 loadstring(game:HttpGet("https://pastebin.com/raw/7kuNSTcS"))()
-loadstring(game:HttpGet("https://pastefy.app/hzbFarg6/raw"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/LXUN3fbh"))()
 loadstring(game:HttpGet("https://pastebin.com/raw/RfFGyXEX"))()
+
 
